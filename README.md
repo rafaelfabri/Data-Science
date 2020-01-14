@@ -1,6 +1,10 @@
 # Data-Science
+**Rafael Fabri Chimidt**
+<p align="center">
+<img src = "https://wallpapercave.com/wp/wp3205240.jpg"
+     </p>
 
-
+Neste repositório encontra-se todos os meus projetos realizados na área de Data Science
 
 # Sobre mim
 Curso Engenharia de Produção com ênfase em materiais na Unesp - Campus de Itapeva.
