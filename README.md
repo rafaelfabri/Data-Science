@@ -1,1 +1,12 @@
 # Data-Science
+
+
+
+# Sobre mim
+Curso Engenharia de Produção com ênfase em materiais na Unesp - Campus de Itapeva.
+
+* Graduando em Engenharia de Produção.
+* Atuei como pesquisador de iniciação científica pela agência de fomento Fapesp na área de nanomaterias. 
+* Participei de projetos de extensão científica.
+* Atuei como professor voluntário do cursinho pré vestibular da Unesp - Itapeva
+* Atuei como como monitor voluntário na discplina de Cálculo II.
