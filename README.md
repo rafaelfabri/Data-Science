@@ -4,7 +4,7 @@
 <img src = "https://user-images.githubusercontent.com/59238686/72443532-2b06be00-378d-11ea-8b54-3d6f748044da.jpg"
      </p>
 
-Neste repositório encontra-se todos os meus projetos realizados na área de Data Science.
+Neste repositório encontra-se meus projetos realizados na área de Data Science.
 
 **Link para projetos:**
 
