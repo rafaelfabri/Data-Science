@@ -18,3 +18,5 @@ Curso Engenharia de Produção com ênfase em materiais na Unesp - Campus de Ita
 * Participei de projetos de extensão científica.
 * Atuei como professor voluntário do cursinho pré vestibular da Unesp - Itapeva
 * Atuei como como monitor voluntário na discplina de Cálculo II.
+
+**Link para linkedin:** https://www.linkedin.com/in/rafael-fabri-chimidt/
