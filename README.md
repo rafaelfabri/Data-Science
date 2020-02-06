@@ -12,7 +12,7 @@ Neste repositório encontra-se meus projetos realizados na área de Data Science
 
 **Link para projetos:**
 
-* Análise dos dados da Airbnb https://github.com/rafaelfabri/Data-Science/blob/master/Analisando_os_Dados_da_Airbnb.ipynb
+* Análise dos dados da Airbnb https://bit.ly/2v9yN7r
 
 # Sobre mim
 Curso Engenharia de Produção com ênfase em materiais na Unesp - Campus de Itapeva.
