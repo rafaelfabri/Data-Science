@@ -13,7 +13,7 @@ Neste repositório encontra-se meus projetos realizados na área de Data Science
 **Link para projetos:**
 
 * Análise dos dados da Airbnb https://bit.ly/2v9yN7r
-* a Violência no Rio de Janeiro https://bit.ly/38bAkbr
+* Analisando a Violência no Rio de Janeiro https://bit.ly/38bAkbr
 
 # Sobre mim
 Curso Engenharia de Produção com ênfase em materiais na Unesp - Campus de Itapeva.
