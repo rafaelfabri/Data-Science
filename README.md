@@ -28,3 +28,4 @@ Curso Engenharia de Produção com ênfase em materiais na Unesp - Campus de Ita
 **Links:** 
 
 * [Linkedin](https://www.linkedin.com/in/rafael-fabri-chimidt/)
+* [Medium](https://medium.com/@rafael.fabri.chimidt)
