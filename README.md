@@ -14,6 +14,7 @@ Neste repositório encontra-se meus projetos realizados na área de Data Science
 
 * Análise dos dados da Airbnb https://bit.ly/2v9yN7r
 * Analisando a Violência no Rio de Janeiro https://bit.ly/38bAkbr
+* Detecção de Fraude de Cartões de Créditos https://bit.ly/33tdpXG
 
 # Sobre mim
 Curso Engenharia de Produção com ênfase em materiais na Unesp - Campus de Itapeva.
