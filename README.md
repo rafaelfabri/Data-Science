@@ -5,7 +5,7 @@
 
 **Rafael Fabri Chimidt**
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/59238686/72443532-2b06be00-378d-11ea-8b54-3d6f748044da.jpg"
+<img src = "https://image.freepik.com/free-photo/machine-learning-hand-robot-touching-computer-chip-binary-data_34200-418.jpg"
      </p>
 
 Neste repositório encontra-se meus projetos realizados na área de Data Science.
