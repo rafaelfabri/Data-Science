@@ -16,10 +16,12 @@ Neste repositório encontra-se meus projetos realizados na área de Data Science
 * Analisando a Violência no Rio de Janeiro https://bit.ly/38bAkbr
 * Detecção de Fraude de Cartões de Créditos https://bit.ly/3bsjFSk
 * Competição Titanic https://bit.ly/2DuC6um
+* Churn Prediction EDA https://bit.ly/3dXBCfI
 
 # Sobre mim
 Curso Engenharia de Produção com ênfase em materiais na Unesp - Campus de Itapeva.
 
+* Estagiário Universitário no Grupo Neoenergia - Elektro
 * Graduando em Engenharia de Produção.
 * Atuei como pesquisador de iniciação científica pela agência de fomento Fapesp na área de nanomaterias. 
 * Participei de projetos de extensão científica.
